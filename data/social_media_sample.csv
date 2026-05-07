@@ -1,0 +1,11 @@
+id,platform,post,sentiment
+1,Twitter,"The brand service is excellent",Positive
+2,Instagram,"Delivery was very slow and disappointing",Negative
+3,Reddit,"Customer support solved my issue quickly",Positive
+4,Twitter,"Product quality is average",Neutral
+5,Instagram,"I love the new update from this company",Positive
+6,Reddit,"The application crashes frequently",Negative
+7,Twitter,"Very satisfied with customer service",Positive
+8,Instagram,"Waiting time is too long",Negative
+9,Reddit,"The interface is simple and easy to use",Positive
+10,Twitter,"The latest update introduced many bugs",Negative
